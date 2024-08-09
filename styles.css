@@ -6,11 +6,6 @@
     --cor-azul-botao: #167BF7;
     --fonte-principal: 'Inter', sans-serif;
 
-    <div class="container">
-    <!-- Outros elementos aqui -->
-    <a href="#" class="container__botao">Botão Clicável</a>
-    <!-- Outros elementos aqui -->
-</div>
 }
 
 /* Estilos gerais */
@@ -31,9 +26,9 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("camp.jpg");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: 100;
     display: flex;
     justify-content: center;
     align-items: center;
